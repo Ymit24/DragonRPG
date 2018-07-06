@@ -46,9 +46,4 @@ public class Player : MonoBehaviour, IDamageable {
             }
         }
     }
-
-    void SuperEpicFunction()
-    {
-        print("This is a super epic function");
-    }
 }

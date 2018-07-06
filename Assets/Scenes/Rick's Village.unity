@@ -3176,7 +3176,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 408730, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 16.32312
+      value: 16.82
       objectReference: {fileID: 0}
     - target: {fileID: 408730, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
       propertyPath: m_LocalPosition.y
@@ -3184,7 +3184,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 408730, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 38.57733
+      value: 39.37
       objectReference: {fileID: 0}
     - target: {fileID: 408730, guid: 7737647c22c1fc64a88d5cd030c352ce, type: 2}
       propertyPath: m_LocalRotation.x
@@ -12357,7 +12357,7 @@ Prefab:
     m_Modifications:
     - target: {fileID: 4489944712156186, guid: 0dc6711b7202ae74bae28869510b70aa, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 14.978638
+      value: 12.03
       objectReference: {fileID: 0}
     - target: {fileID: 4489944712156186, guid: 0dc6711b7202ae74bae28869510b70aa, type: 2}
       propertyPath: m_LocalPosition.y
@@ -12365,7 +12365,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4489944712156186, guid: 0dc6711b7202ae74bae28869510b70aa, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 33.755463
+      value: 35.5
       objectReference: {fileID: 0}
     - target: {fileID: 4489944712156186, guid: 0dc6711b7202ae74bae28869510b70aa, type: 2}
       propertyPath: m_LocalRotation.x
@@ -12387,6 +12387,26 @@ Prefab:
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1033983906787444, guid: 0dc6711b7202ae74bae28869510b70aa, type: 2}
+      propertyPath: m_Name
+      value: Steve
+      objectReference: {fileID: 0}
+    - target: {fileID: 114640662488158408, guid: 0dc6711b7202ae74bae28869510b70aa,
+        type: 2}
+      propertyPath: attackRadius
+      value: 7.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 114640662488158408, guid: 0dc6711b7202ae74bae28869510b70aa,
+        type: 2}
+      propertyPath: chaseRadius
+      value: 1.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 114640662488158408, guid: 0dc6711b7202ae74bae28869510b70aa,
+        type: 2}
+      propertyPath: projectileToUse
+      value: 
+      objectReference: {fileID: 1475630989433130, guid: 3c878bed2e720ae41bae657251157ad0,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0dc6711b7202ae74bae28869510b70aa, type: 2}
   m_IsPrefabParent: 0

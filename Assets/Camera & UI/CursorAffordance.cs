@@ -32,6 +32,4 @@ public class CursorAffordance : MonoBehaviour {
                 break;
         }
 	}
-
-    // TODO consider de-registering OnLayerChanged on leaving all game scenes
 }

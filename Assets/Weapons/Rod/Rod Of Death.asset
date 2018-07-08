@@ -11,6 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5643675390190ce489f9e85a69c0c27a, type: 3}
   m_Name: Rod Of Death
   m_EditorClassIdentifier: 
+  gripTransform: {fileID: 4966399967720310, guid: 3b66986536c15ce4d8bb30ba9710bcbd,
+    type: 2}
   weaponPrefab: {fileID: 1704679859283026, guid: de39485d75f2b3148b093b49badb59d9,
     type: 2}
   attackAnimation: {fileID: 0}

@@ -11,6 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5643675390190ce489f9e85a69c0c27a, type: 3}
   m_Name: Dirty Old Hoe
   m_EditorClassIdentifier: 
+  gripTransform: {fileID: 4326974718145768, guid: 4a75c738497a6864d83ee7747925ccf7,
+    type: 2}
   weaponPrefab: {fileID: 1274797246840802, guid: cc0dbe33ee8adbe4eb124e2d95d37fe4,
     type: 2}
   attackAnimation: {fileID: 0}
